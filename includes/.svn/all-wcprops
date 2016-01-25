@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sys/ip/!svn/ver/19834/trunk/bie/bvrouter/includes
+END
+common_includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/includes/common_includes.h
+END
+bvr_ver.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sys/ip/!svn/ver/17858/trunk/bie/bvrouter/includes/bvr_ver.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/sys/ip/!svn/ver/20033/trunk/bie/bvrouter/tools
+END
+kill.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/17858/trunk/bie/bvrouter/tools/kill.sh
+END
+restartbvr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/tools/restartbvr.sh
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sys/ip/!svn/ver/19474/trunk/bie/bvrouter/tools/setup.sh
+END
+monitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sys/ip/!svn/ver/20033/trunk/bie/bvrouter/tools/monitor.py
+END

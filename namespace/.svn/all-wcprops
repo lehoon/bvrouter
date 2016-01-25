@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sys/ip/!svn/ver/21191/trunk/bie/bvrouter/namespace
+END
+bvr_ipv4.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/namespace/bvr_ipv4.h
+END
+bvr_ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/20718/trunk/bie/bvrouter/namespace/bvr_ctl.h
+END
+bvr_arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/namespace/bvr_arp.h
+END
+bvr_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sys/ip/!svn/ver/18251/trunk/bie/bvrouter/namespace/bvr_hash.h
+END
+bvr_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/namespace/bvr_errno.h
+END
+bvr_namespace.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/namespace/bvr_namespace.c
+END
+bvr_netfilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sys/ip/!svn/ver/20832/trunk/bie/bvrouter/namespace/bvr_netfilter.c
+END
+bvr_route.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/namespace/bvr_route.c
+END
+bvr_netfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/namespace/bvr_netfilter.h
+END
+bvr_namespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/namespace/bvr_namespace.h
+END
+bvr_cjson.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/namespace/bvr_cjson.c
+END
+bvr_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/namespace/bvr_dev.c
+END
+bvr_cjson.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/namespace/bvr_cjson.h
+END
+bvr_ipv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sys/ip/!svn/ver/20718/trunk/bie/bvrouter/namespace/bvr_ipv4.c
+END
+bvr_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/21191/trunk/bie/bvrouter/namespace/bvr_ctl.c
+END
+bvr_arp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sys/ip/!svn/ver/19969/trunk/bie/bvrouter/namespace/bvr_arp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sys/ip/!svn/ver/18251/trunk/bie/bvrouter/namespace/Makefile
+END

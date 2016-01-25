@@ -1,0 +1,14 @@
+#!/bin/bash
+
+make clean
+
+svn co https://svn.baidu.com/sys/ip/trunk/pal/pal/
+
+make -j100
+
+[ -d ./output ] && rm -rf ./output
+mkdir -p output
+mkdir -p output/conf
+
+cp build/bvrouter ./output
+cp conf/bvrouter.conf ./output/conf/

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/util
+END
+logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/util/logger.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/util/vector.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/util/Makefile
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/util/parser.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sys/ip/!svn/ver/17613/trunk/bie/bvrouter/util/util.c
+END

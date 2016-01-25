@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/namespace/alg
+END
+bvr_alg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sys/ip/!svn/ver/18251/trunk/bie/bvrouter/namespace/alg/bvr_alg.h
+END
+bvr_ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/namespace/alg/bvr_ftp.c
+END
+bvr_ftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sys/ip/!svn/ver/18251/trunk/bie/bvrouter/namespace/alg/bvr_ftp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sys/ip/!svn/ver/18251/trunk/bie/bvrouter/namespace/alg/Makefile
+END
+bvr_alg.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sys/ip/!svn/ver/18641/trunk/bie/bvrouter/namespace/alg/bvr_alg.c
+END

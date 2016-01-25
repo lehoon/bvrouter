@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test
+END
+vxlan_vport_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/vxlan_vport_test.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/main.c
+END
+nn_l2_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/nn_l2_test.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/main.h
+END
+phy_vport_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/phy_vport_test.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/Makefile
+END
+route_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sys/ip/!svn/ver/20752/trunk/bie/bvrouter/pal/l2_test/route_test.c
+END

@@ -1,0 +1,2 @@
+BUILD_SUBMITTER -u ./ -c " export MAC=64 && cd sys/ip/bie/bvrouter && sh build.sh" -e x86bgw -o "output/*" -m sys/ip/bie/bvrouter -x
+BUILD_SUBMITTER_COVERITY -m sys/ip/bie/bvrouter  -u ./ -x -c "cd sys/ip/bie/bvrouter && export covpath=\$PWD && mkdir coverity && mkdir output && \$BUILD_KIT_PATH/coverity-7.5.1/cov-analysis-linux64/bin/cov-build --dir coverity sh build.sh && mv \$covpath/coverity \$covpath/output/coverity"
